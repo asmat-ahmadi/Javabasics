@@ -2,7 +2,11 @@ package Review1;
 
 import java.util.Scanner;
 
-public class assign030 {
+public class Replit030 {
+    /*
+Write a program to take the month number from a user.
+Provide month name to the corresponding month number
+If a user provides any number that is out of month range, the program should display "Invalid"*/
     public static void main(String[] args) {
         System .out.println("Please enter month number");
         Scanner scanner=new Scanner(System.in);
