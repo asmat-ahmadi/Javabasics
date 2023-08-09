@@ -4,26 +4,25 @@ import java.util.Scanner;
 
 public class replit032 {
     public static void main(String[] args) {
-        System.out.println("Please enter your gender: M and F");
-        Scanner scanner = new Scanner(System.in);
-        String gender = scanner.next();
+        Scanner input=new Scanner(System.in);
+        System.out.println("Please enter your gender: F or M");
+        String gender=input.next();
         System.out.println("Please enter your age");
-        int age = scanner.nextInt();
-        if (age > 25) {
-            if (gender.equals("F")) {
+        int age=input.nextInt();
+
+        if (age >25){
+            if(gender.equals("F")){
                 System.out.println("woman");
+            }else {
+                System.out.println("Man");
+            }}if (age <25){
+                if(gender.equals("F")){
+                    System.out.println("girl");
 
-            } else{
-
-                }if(age <25){
-                    System.out.println("Man");
-                    if (gender.equals("F")) {
-                        System.out.println("Girl");
-
-                    } else{
-                                System.out.println("boy");
+                } else {
+                    System.out.println("boy");
                 }
+            }
 
-
-        }
-    }}}
+    }
+}
