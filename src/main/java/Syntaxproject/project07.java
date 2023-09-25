@@ -2,7 +2,7 @@ package Syntaxproject;
 
 import java.util.ArrayList;
 
-public class Project07 {
+public class project07 {
 
 
     public static void main(String[] args) {

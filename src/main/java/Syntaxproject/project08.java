@@ -1,6 +1,6 @@
 package Syntaxproject;
 
-public class Project08 {
+public class project08 {
     public static String convert(String num){
         int convert=Integer.parseInt(num);
 

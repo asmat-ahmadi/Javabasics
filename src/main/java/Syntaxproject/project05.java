@@ -2,7 +2,7 @@ package Syntaxproject;
 
 import java.util.Arrays;
 
-public class Project05 {
+public class project05 {
     public static void main(String[] args) {
         String word1 = "listen";
         String word2 = "silent";
