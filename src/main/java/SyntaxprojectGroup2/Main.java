@@ -1,4 +1,4 @@
-package Syntaxproject;
+package SyntaxprojectGroup2;
 
 public class Main {
 

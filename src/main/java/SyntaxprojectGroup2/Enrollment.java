@@ -1,4 +1,4 @@
-package Syntaxproject;
+package SyntaxprojectGroup2;
 
 public class Enrollment {
     private String email;

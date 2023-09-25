@@ -1,4 +1,4 @@
-package Syntaxproject;
+package SyntaxprojectGroup2;
 
 public class project03 {
     public static boolean isPalindrome(String input) {

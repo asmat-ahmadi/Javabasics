@@ -1,4 +1,4 @@
-package Syntaxproject;
+package SyntaxprojectGroup2;
 
 public class Project04Ex {
     public static void main(String[] args) {
