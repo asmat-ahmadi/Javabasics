@@ -1,0 +1,17 @@
+package Syntaxproject;
+
+public class InstanceVariableTest {
+
+        int num; // instance variable
+        InstanceVariableTest(int n) {
+            num = n;
+        }
+        public void show() {
+            System.out.println("The number is: " + num);
+        }
+        public static void main(String args[]) {
+            InstanceVariableTest test = new InstanceVariableTest(75);
+            test.show();
+        }
+    }
+
